@@ -9,4 +9,5 @@
 </h1>
 
 The Great Gatsby Bootcamp: https://www.youtube.com/watch?v=8t0vNu2fCCM&t=15052s
-Thanks to https://twitter.com/andrew_j_mead?lang=en
+
+Thanks to @andrew_j_mead
